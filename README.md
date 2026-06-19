@@ -3,7 +3,6 @@
 Empirical pipeline for a doctoral thesis on herding, reflexivity, and price dynamics
 in 8 global equity markets (2015–2026), structured as three essays.
 
-**Author:** Giovani Silva — FGV EAESP, DPA Finanças  
 **Repo:** https://github.com/J-Alb/herding_project  
 **Stack:** Python 3.11+, pandas, yfinance, statsmodels, matplotlib
 
